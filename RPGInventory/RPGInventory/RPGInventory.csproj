@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Items\" />
+    <Folder Include="Items\Weapons\" />
+    <Folder Include="Items\Potions\" />
+    <Folder Include="Items\Containers\" />
+    <Folder Include="Items\Armor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Items\Weapons\EmptyClass.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/bin/Debug/netcoreapp2.1/RPGInventoryTest.deps.json
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/bin/Debug/netcoreapp2.1/RPGInventoryTest.dll
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/bin/Debug/netcoreapp2.1/RPGInventoryTest.pdb
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/bin/Debug/netcoreapp2.1/RPGInventory.dll
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/bin/Debug/netcoreapp2.1/RPGInventory.pdb
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.csprojAssemblyReference.cache
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.csproj.CoreCompileInputs.cache
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.AssemblyInfoInputs.cache
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.AssemblyInfo.cs
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.csproj.CopyComplete
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.dll
+/Users/austinmann/Projects/RPGInventory/RPGInventoryTest/obj/Debug/netcoreapp2.1/RPGInventoryTest.pdb
